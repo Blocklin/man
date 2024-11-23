@@ -13,3 +13,5 @@ Pair: https://dexscreener.com/solana/6zrtbgsszbnjxobfiayhezbbs6hu8dtif2stljayuab
 Token: HjtiKFDVFsKEtnpM48Nvue1jTsRC14Bvw35Lu9Ahjowz
 
 GeckoTerminal: https://www.geckoterminal.com/solana/pools/6zRTBgssZbnJXoBFiAYHezBbS6hU8Dtif2sTLjaYuABV
+
+Pool liquidity donations: 6BZgbCSBen5wcqazr4uPoRpSbhRbqRTd36eL6es56uFa (Solana)
