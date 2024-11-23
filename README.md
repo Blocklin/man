@@ -17,3 +17,6 @@ GeckoTerminal: https://www.geckoterminal.com/solana/pools/6zRTBgssZbnJXoBFiAYHez
 
 Future:
 This is the first step, if the community helps we can extend this idea and create a JSON file for women, etc.
+
+Value:
+As more individuals contribute expanding this source of data, more worth it should be.
