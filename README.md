@@ -5,7 +5,7 @@ The token named "Man" is a symbolic representation of all men on Earth, embodyin
 
 It serves as a reminder of the interconnectedness of all people, emphasizing the importance of solidarity, mutual respect, and the potential for collaboration in building a better future. By creating this token, I aim to highlight the strength and value of unity, equality, and inclusiveness, while inspiring hope and a sense of belonging in the journey of human progress.
 
-AI needs reliable data to be trained on, AGI cannot be achieved without reliable, trutfull data to base it's knowledge on. This repository is intended to gather data that defines a man, each one of you can be part of this important source of data sharing your ideas how AGI could identify men.
+AI needs reliable data to be trained on, AGI cannot be achieved without reliable, truthful data to base it's knowledge on. This repository is intended to gather data that defines a man, each one of you can be part of this important source of data sharing your ideas how AGI could identify men.
 
 Please submit ideas.
 We also need liquidity in the pool, so please help achieving this.
