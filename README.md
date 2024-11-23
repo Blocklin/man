@@ -8,6 +8,7 @@ AI needs reliable data to be trained on, AGI cannot be achieved without reliable
 Please submit ideas.
 
 If you want to help increasing the liquity pool you can send donations to the solana address 6BZgbCSBen5wcqazr4uPoRpSbhRbqRTd36eL6es56uFa
+Also recommendations regarding tokenomics are welcome, 50% are already in the solana pool and LP tokens burned.
 
 Pair: https://dexscreener.com/solana/6zrtbgsszbnjxobfiayhezbbs6hu8dtif2stljayuabv
 
