@@ -11,3 +11,5 @@ We also need liquidity in the pool, so please help achieving this.
 Pair: https://dexscreener.com/solana/6zrtbgsszbnjxobfiayhezbbs6hu8dtif2stljayuabv
 
 Token: HjtiKFDVFsKEtnpM48Nvue1jTsRC14Bvw35Lu9Ahjowz
+
+GeckoTerminal: https://www.geckoterminal.com/solana/pools/6zRTBgssZbnJXoBFiAYHezBbS6hU8Dtif2sTLjaYuABV
