@@ -1,0 +1,101 @@
+{
+  "biological_characteristics": {
+    "chromosomes": "XY",
+    "hormonal_profile": {
+      "primary_hormone": "testosterone",
+      "testosterone_levels": "average: 300-1000 ng/dL",
+      "secondary_hormones": ["estrogen", "cortisol"]
+    },
+    "primary_reproductive_organs": ["testes", "penis"],
+    "secondary_sexual_characteristics": {
+      "facial_hair": true,
+      "body_hair_density": "medium to high",
+      "muscle_mass": "higher than average compared to females",
+      "voice_pitch": "lower"
+    },
+    "average_height": "170-180 cm",
+    "average_weight": "65-90 kg",
+    "genetic_markers": ["SRY gene on Y chromosome"]
+  },
+  "appearance": {
+    "facial_features": {
+      "jawline": "pronounced",
+      "brow_ridge": "more prominent",
+      "adam's_apple": true
+    },
+    "hairstyle": {
+      "range": ["short", "medium", "long"],
+      "patterns": ["balding", "full head", "receding hairline"]
+    },
+    "clothing_preferences": {
+      "western": ["pants", "shirts", "suits"],
+      "traditional": ["tunics", "robes"],
+      "colors": ["neutral tones", "darker colors"]
+    },
+    "grooming_habits": ["shaving", "beard maintenance"]
+  },
+  "behavioral_patterns": {
+    "social_roles": ["provider", "protector", "leader"],
+    "communication_style": {
+      "directness": "high",
+      "emotional expression": "limited"
+    },
+    "common_interests": ["sports", "technology", "business"],
+    "decision-making": "analytical, risk-taking"
+  },
+  "societal_roles": {
+    "workforce_participation": {
+      "common_professions": ["engineer", "doctor", "construction worker", "soldier"],
+      "employment_rate": "higher than average compared to women in many cultures"
+    },
+    "family_roles": ["father", "husband", "brother"],
+    "historical_roles": ["warrior", "king", "inventor"]
+  },
+  "health": {
+    "average_life_expectancy": "70-75 years",
+    "common_health_conditions": ["heart disease", "prostate cancer", "diabetes"],
+    "fitness_preferences": ["weightlifting", "running", "team sports"]
+  },
+  "psychological_traits": {
+    "risk_taking": "high",
+    "empathy_levels": "moderate to low",
+    "focus": "goal-oriented",
+    "emotional regulation": "pragmatic"
+  },
+  "cultural_aspects": {
+    "rites_of_passage": ["bar mitzvah", "military service", "marriage"],
+    "cultural symbols": ["tie", "suit", "sports gear"],
+    "historical contributions": ["scientific discoveries", "artistic achievements"]
+  },
+  "technological_preferences": {
+    "devices": ["smartphones", "gaming consoles", "power tools"],
+    "brand affinity": ["performance-focused"],
+    "hobbies": ["gaming", "DIY projects", "car repair"]
+  },
+  "interaction_style": {
+    "body_language": {
+      "posture": "upright",
+      "gestures": "assertive",
+      "eye contact": "direct"
+    },
+    "speech": {
+      "tone": "lower pitch",
+      "word choice": "precise, technical",
+      "volume": "moderate to loud"
+    },
+    "relationship-building": {
+      "friendship_style": "activity-based",
+      "trust-building": "action-oriented"
+    }
+  },
+  "exceptions": {
+    "variability": {
+      "biological": ["XXY (Klinefelter syndrome)", "low testosterone"],
+      "appearance": ["no facial hair", "slim build"],
+      "behavioral": ["emotional expressiveness", "non-traditional roles"]
+    },
+    "self-identification": {
+      "gender_identity": ["trans man", "non-binary leaning masculine"]
+    }
+  }
+}
