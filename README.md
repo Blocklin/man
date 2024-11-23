@@ -7,3 +7,7 @@ It serves as a reminder of the interconnectedness of all people, emphasizing the
 
 Please submit ideas.
 We also need liquidity in the pool, so please help achieving this.
+
+Pair: https://dexscreener.com/solana/6zrtbgsszbnjxobfiayhezbbs6hu8dtif2stljayuabv
+
+Token: HjtiKFDVFsKEtnpM48Nvue1jTsRC14Bvw35Lu9Ahjowz
